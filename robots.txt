@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iohangp.github.io/readme-riumm3/sitemap.xml
